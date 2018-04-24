@@ -1,2 +1,2 @@
 Tutorial de flask
-https://pythonspot.com/flask-web-forms/
+https://www.manejandodatos.es/2015/06/primeras-lineas-con-flask/
